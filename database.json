@@ -7,12 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/ea0d76bcb48d18c8512202bf5786f202.git:flsun-kossel-extruder-mount.groovy": [
-      "https://gist.github.com/ea0d76bcb48d18c8512202bf5786f202.git",
-      "flsun-kossel-extruder-mount.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.0",
     "skinBranch": "0.21.0",
