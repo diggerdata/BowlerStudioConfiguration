@@ -19,7 +19,7 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.21.0",
-    "fontsize": 18,
+    "fontsize": 18.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
