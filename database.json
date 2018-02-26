@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/diggerdata/DoubleRockerBogie.git:NASA_Curiosity.xml": [
+    "https://github.com/diggerdata/DoubleRockerBogie.git:Double_Rocker_Bogie.xml": [
       "https://github.com/diggerdata/DoubleRockerBogie.git",
-      "NASA_Curiosity.xml"
-    ],
-    "https://github.com/diggerdata/DoubleRockerBogie.git:bodyCad.groovy": [
-      "https://github.com/diggerdata/DoubleRockerBogie.git",
-      "bodyCad.groovy"
+      "Double_Rocker_Bogie.xml"
     ]
   },
   "BowlerStudioConfigs": {
