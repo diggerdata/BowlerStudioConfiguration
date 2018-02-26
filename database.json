@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/b7670ba139db15873d70cbf85227a8fa.git:servoVitamin.groovy": [
-      "https://gist.github.com/b7670ba139db15873d70cbf85227a8fa.git",
-      "servoVitamin.groovy"
+    "https://github.com/diggerdata/DoubleRockerBogie.git:wheel_assem.groovy": [
+      "https://github.com/diggerdata/DoubleRockerBogie.git",
+      "wheel_assem.groovy"
     ]
   },
   "BowlerStudioConfigs": {
